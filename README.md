@@ -8,12 +8,21 @@ A simple budget tracking app that is downloadable as a PWA and available offline
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
+  - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
   - [Questions](#questions)
 
 ## Installation
 Visit the deplpoyed app [here!](https://dimiter-budget-tracker.herokuapp.com/)
+
+## Usage
+
+Deployed App  
+![Web](./public/images/fitness-tracker.png)
+  
+Downloaded Progressive Web Application  
+![PWA](./public/images/new-workout.png)  
 
 ## Contributing
 To contribute, contact me below!
