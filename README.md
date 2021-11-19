@@ -19,10 +19,10 @@ Visit the deplpoyed app [here!](https://dimiter-budget-tracker.herokuapp.com/)
 ## Usage
 
 Deployed App  
-![Web](./public/images/fitness-tracker.png)
+![Web](./assets/screenshots/web.png)
   
 Downloaded Progressive Web Application  
-![PWA](./public/images/new-workout.png)  
+![PWA](./assets/screenshots/pwa.png)  
 
 ## Contributing
 To contribute, contact me below!
